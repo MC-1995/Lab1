@@ -32,7 +32,7 @@ public class Main {
                 calc.run();
                 break;
             default:
-                System.out.println("Нет такой команды");
+                System.out.println("Введите команду fizzbuzz, quadratic, palindrome, reverse или series и соответсвующие параметры для корректной работы программы");
                 break;
         }
     }
